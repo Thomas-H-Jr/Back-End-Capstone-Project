@@ -2,3 +2,6 @@ username and passwords:
 
 user: admin
 password: lemon123!
+
+user: testuser
+password: lemon123!
