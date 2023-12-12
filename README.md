@@ -2,19 +2,21 @@
 
 API Paths:
 
+restaurant/
+
 restaurant/menu/items
 
 restaurant/menu/items/id#
 
 restaurant/booking/tables
-____________________
+
+---
+
 Usernames and Passwords:
 
 user: admin
 
 password: lemon123!
-
-
 
 user: testuser
 
