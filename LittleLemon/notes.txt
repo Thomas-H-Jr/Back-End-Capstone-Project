@@ -1,0 +1,4 @@
+username and passwords:
+
+user: admin
+password: lemon123!
